@@ -43,6 +43,7 @@ public class teleOp extends Command {
     @Override
     protected void execute() {
         System.out.println("your madre a (kalinda) ____");
+        System.out.println("hellloooooooooo");
     }
 
     // Make this return true when this Command no longer needs to run execute()
